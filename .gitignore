@@ -213,3 +213,8 @@ __marimo__/
 .venv*/
 *.pt
 
+
+# Ignore venvs and large binaries
+.venv*/
+*.pt
+
