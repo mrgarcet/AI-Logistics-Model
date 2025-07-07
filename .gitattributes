@@ -1,0 +1,2 @@
+*.safetensors filter=lfs diff=lfs merge=lfs -text
+models/bert_intent_classifier/model.safetensors !text !filter !merge !diff

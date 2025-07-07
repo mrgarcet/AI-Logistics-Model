@@ -1,0 +1,125 @@
+text,intent
+What's the stock of Item A?,CheckStock
+How many units of Item A are on hand?,CheckStock
+Show me current quantity for Item A.,CheckStock
+Item A inventory level?,CheckStock
+Do we have any Item A left?,CheckStock
+Quantity remaining for Item B?,CheckStock
+How many Item B do we still have?,CheckStock
+Stock count Item B please.,CheckStock
+Can you tell me count of Item B?,CheckStock
+Report stock of Item C.,CheckStock
+What’s on the shelf for Item C?,CheckStock
+Item C stock right now?,CheckStock
+Current inventory of Item D?,CheckStock
+Number of Item D available?,CheckStock
+Units in store for Item D?,CheckStock
+Check on Item E quantity.,CheckStock
+Give me balance of Item E.,CheckStock
+What is the amount of Item F in inventory?,CheckStock
+How much Item F remains?,CheckStock
+Inventory figure for Item G?,CheckStock
+How many pieces of Item G?,CheckStock
+Show Item H stock.,CheckStock
+Where are we at with Item H?,CheckStock
+Stock of Product 1?,CheckStock
+
+Update stock of Item A to 150,UpdateStock
+Set quantity of Item A as 150,UpdateStock
+Change Item A count to 150.,UpdateStock
+Override Item A inventory to 150 units.,UpdateStock
+Make Item A equal to 150 in stock.,UpdateStock
+Please update Item B to 87.,UpdateStock
+Adjust Item B stock level to 87 units.,UpdateStock
+Set Item B quantity = 87,UpdateStock
+Modify Item B count 87.,UpdateStock
+Change Item C inventory number to seventy‑five.,UpdateStock
+Put Item C stock at 75.,UpdateStock
+Update Item C quantity 75 please.,UpdateStock
+Set Item D to 42 pieces.,UpdateStock
+Item D new quantity forty‑two.,UpdateStock
+Update Item D stock value 42.,UpdateStock
+Make Item E stock twenty‑two.,UpdateStock
+Adjust Item E to 22,UpdateStock
+Replace Item F count with 10.,UpdateStock
+Item F should read ten units.,UpdateStock
+Set Product 2 units to 33.,UpdateStock
+Update Product 2 quantity thirty‑three.,UpdateStock
+Change Product 3 on‑hand to 99.,UpdateStock
+Update Product 3 = 99 pieces.,UpdateStock
+Please set Product 3 inventory to ninety‑nine.,UpdateStock
+
+Add 20 units of Item B,AddItem
+Add twenty to Item B.,AddItem
+Insert 20 Item B into inventory.,AddItem
+Increase Item B by 20.,AddItem
+Bring in 20 more Item B.,AddItem
+Add 5 Item C to stock.,AddItem
+Add five of Item C.,AddItem
+Boost Item C inventory by 5.,AddItem
+Receive 5 new Item C units.,AddItem
+Put 12 units Item D on the shelf.,AddItem
+Add twelve Item D.,AddItem
+Increase Item D by 12 pieces.,AddItem
+Add seven Item E.,AddItem
+Add 7 units of Item E.,AddItem
+Raise Item E inventory +7.,AddItem
+Bring in 50 Item F.,AddItem
+Add fifty Item F now.,AddItem
+Add 3 Product 1 cartons.,AddItem
+Insert three more Product 1.,AddItem
+Restock Product 2 with 18.,AddItem
+Add eighteen Product 2.,AddItem
+Plus 9 Product 3 units.,AddItem
+Add nine of Product 3.,AddItem
+Add twenty‑five Item G.,AddItem
+
+Remove 5 units of Item C,RemoveItem
+Take away five Item C.,RemoveItem
+Subtract 5 from Item C stock.,RemoveItem
+Remove 5 Item C pieces.,RemoveItem
+Deduct five Item C.,RemoveItem
+Remove 2 Item D from inventory.,RemoveItem
+Take out two Item D.,RemoveItem
+Reduce Item D count by 2.,RemoveItem
+Pull 2 Item D units.,RemoveItem
+Remove ten Item E.,RemoveItem
+Drop 10 Item E from stock.,RemoveItem
+Decrease Item E by ten.,RemoveItem
+Remove 1 Item F.,RemoveItem
+Take one Item F off the shelf.,RemoveItem
+Minus 1 Item F from inventory.,RemoveItem
+Remove 8 Product 1.,RemoveItem
+Pull eight Product 1 units.,RemoveItem
+Take 8 out of Product 1.,RemoveItem
+Remove three Product 2 pieces.,RemoveItem
+Subtract 3 from Product 2.,RemoveItem
+Delete 11 Product 3 units.,RemoveItem
+Remove eleven Product 3.,RemoveItem
+Reduce Product 3 by 11.,RemoveItem
+Remove 6 Item G,RemoveItem
+
+What's the projected demand for Item A next month?,ForecastQuery
+Forecast Item A sales for next month.,ForecastQuery
+Projected Item A demand next period?,ForecastQuery
+Prediction for Item A in August?,ForecastQuery
+Item A expected sales coming month?,ForecastQuery
+How many Item B will we need next month?,ForecastQuery
+Predict next‑month volume for Item B.,ForecastQuery
+Next period forecast Item B.,ForecastQuery
+Demand outlook Item B?,ForecastQuery
+Show Item C projection for next month.,ForecastQuery
+Projected demand Item C thirty‑day.,ForecastQuery
+Forecast Item C upcoming month.,ForecastQuery
+Predict Item D units for next month.,ForecastQuery
+Expected sales Item D,ForecastQuery
+Next month Item D forecast figure?,ForecastQuery
+Need projection for Item E next month.,ForecastQuery
+Projected Item E demand.,ForecastQuery
+What do we expect for Item F next month?,ForecastQuery
+Item F forecast next month please.,ForecastQuery
+Projected units for Product 1 next period.,ForecastQuery
+Sales forecast Product 1 month ahead.,ForecastQuery
+Product 2 demand prediction next month?,ForecastQuery
+Predict Product 3 sales upcoming month.,ForecastQuery
+Forecast Product 3 for next period.,ForecastQuery

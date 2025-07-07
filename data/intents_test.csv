@@ -1,0 +1,16 @@
+text,intent
+What's the stock of Item A?,CheckStock
+How many Item B do we still have?,CheckStock
+Stock of Product 1?,CheckStock
+Projected Item A demand next period?,ForecastQuery
+How many Item B will we need next month?,ForecastQuery
+Projected units for Product 3 next period.,ForecastQuery
+Add twenty to Item B.,AddItem
+Boost Item C inventory by 5.,AddItem
+Add 3 Product 1 cartons.,AddItem
+Remove 5 units of Item C,RemoveItem
+Drop 10 Item E from stock.,RemoveItem
+Remove eight Product 1 units.,RemoveItem
+Update stock of Item A to 150,UpdateStock
+Set Item D to 42 pieces.,UpdateStock
+Change Product 3 on‑hand to 99.,UpdateStock
